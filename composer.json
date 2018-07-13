@@ -1,5 +1,5 @@
 {
-    "name": "bb/php-sha3",
+    "name": "php-sha3",
     "description": "Pure PHP implementation of SHA-3",
     "keywords": ["sha3", "sha-3", "shake"],
     "require-dev": {
